@@ -6,7 +6,7 @@
 <meta charset="ISO-8859-1">
 <title>Titel</title>
 <!-- Links -->
-<%@include file="links.jsp" %>
+<%@include file="links.jsp"%>
 
 <!-- style -->
 <link rel="stylesheet" type="text/css" href="css/style.css">
